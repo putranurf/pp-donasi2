@@ -1,0 +1,16 @@
+@font-face {
+    font-family: "Lato";
+    src: local("Lato"),
+     url("../font/Lato-Regular.ttf") format("truetype");
+    font-weight: normal;
+}
+body {
+    font-family: 'Lato';
+    background-color: #f6f6f6 !important;
+}
+
+.container{
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
